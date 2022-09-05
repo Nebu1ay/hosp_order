@@ -40,7 +40,7 @@
 						</div>
 						<h2>	
 							天津市医院挂号系统上线了
-							</h1>
+							</h2>
 							<p>为提高患者预约效率,改善患者预约体验,建立天津市预约挂号统一平台.</p>
 							<p>
 								<a class="btn btn-primary btn-lg" href="/ssm_pro/help/" >了解挂号系统</a>

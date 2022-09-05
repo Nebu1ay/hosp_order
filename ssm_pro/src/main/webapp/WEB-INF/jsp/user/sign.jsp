@@ -64,12 +64,12 @@ input:-webkit-autofill {
 									required onkeyup="isCheckEmail()" /><span id="emailTip"></span>
 							</div>
 							<div class="form-group col-xs-12">
-								<label class="sr-only" for="userPassword">password</label>密码(*):<input
+								<%--@declare id="userpassword"--%><label class="sr-only" for="userPassword">password</label>密码(*):<input
 									style="font-weight: bold" type="password" name="userPassword"
 									class="form-password form-control" id="pwd1" required />
 							</div>
 							<div class="form-group col-xs-12">
-								<label class="sr-only" for="userPasswordCof">passwordCof</label>确认密码(*):<input
+								<%--@declare id="userpasswordcof"--%><label class="sr-only" for="userPasswordCof">passwordCof</label>确认密码(*):<input
 									style="font-weight: bold" type="password"
 									name="userPasswordCof" class="form-password form-control "
 									id="pwd2" required onkeyup="isCheckPwd()" /> <span id="pwdTip"></span>
